@@ -4,9 +4,5 @@ test 3
 test 2
 test 3
 test 2
-<<<<<<< HEAD
 test 76
 test 88
-=======
-test 77
->>>>>>> 3a6f67e3fb97676114d1d1c1efbe4c131fb1f83b
