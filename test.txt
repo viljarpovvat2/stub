@@ -1,11 +1,7 @@
 test 5
-<<<<<<< HEAD
 test 6
 test 3
 test 2
-=======
-test 8
->>>>>>> ff8ba3eeefa284c7309e77f4cc08236b383910d3
 test 3
 test 2
 test 7
